@@ -6,6 +6,11 @@ body {
 #mariojpg {
     width: 25%;
 }
+
+#bike {
+    width: 25%;
+}
+
 #container {
     background: rgb(252,235,49);
 background: linear-gradient(90deg, rgba(252,235,49,1) 0%, rgba(250,255,107,1) 42%, rgba(250,0,255,1) 100%);
