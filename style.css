@@ -8,7 +8,11 @@ body {
 }
 
 #bike {
-    width: 25%;
+    width: 100%;
+}
+
+#sad {
+    width: 100%;
 }
 
 #container {
