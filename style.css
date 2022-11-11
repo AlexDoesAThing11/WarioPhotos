@@ -11,5 +11,12 @@ body {
     width: auto;
 }
 #container {
+    border-radius: 0.5rem;
+    border: 3px solid black;
     text-align: center;
+}
+#wariodiv {
+    background-color: solid pink;
+    border-radius: 0.5rem;
+    border: 3px solid black;
 }
