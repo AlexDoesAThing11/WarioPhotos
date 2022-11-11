@@ -1,4 +1,5 @@
 body {
+  background-color: limegreen;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fceb31",endColorstr="#fa00ff",GradientType=1);
 }
 #t {
@@ -19,7 +20,7 @@ body {
 }
 #wariodiv {
   font-family: "Comic Sans MS", "Comic Sans", cursive;
-  background-color: hotpink;
+  background-color: limegreen;
   border-radius: 0.5rem;
   border: 3px solid black;
 }
