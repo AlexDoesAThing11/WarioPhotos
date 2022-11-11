@@ -1,24 +1,28 @@
 body {
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fceb31",endColorstr="#fa00ff",GradientType=1);}
-#t{
-    width: 25%;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fceb31",endColorstr="#fa00ff",GradientType=1);
 }
-
-
+#t {
+  width: 25%;
+}
 #container {
-    background: rgb(252,235,49);
-background: linear-gradient(90deg, rgba(252,235,49,1) 0%, rgba(250,255,107,1) 42%, rgba(250,0,255,1) 100%);
-    padding: 1rem;
-    border-radius: 0.5rem;
-    border: 3px solid black;
-    text-align: center;
+  background: rgb(252, 235, 49);
+  background: linear-gradient(
+    90deg,
+    rgba(252, 235, 49, 1) 0%,
+    rgba(250, 255, 107, 1) 42%,
+    rgba(250, 0, 255, 1) 100%
+  );
+  padding: 1rem;
+  border-radius: 0.5rem;
+  border: 3px solid black;
+  text-align: center;
 }
 #wariodiv {
-    background-color: hotpink;
-    border-radius: 0.5rem;
-    border: 3px solid black;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
+  background-color: hotpink;
+  border-radius: 0.5rem;
+  border: 3px solid black;
 }
-
 #f {
-    width: 35%;
+  width: 35%;
 }
