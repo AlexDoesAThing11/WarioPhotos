@@ -1,19 +1,9 @@
 body {
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fceb31",endColorstr="#fa00ff",GradientType=1);}
-#mariopartywebp {
-    width: 25%;
-}
-#mariojpg {
+#t{
     width: 25%;
 }
 
-#bike {
-    width: 100%;
-}
-
-#sad {
-    width: 100%;
-}
 
 #container {
     background: rgb(252,235,49);
@@ -29,6 +19,6 @@ background: linear-gradient(90deg, rgba(252,235,49,1) 0%, rgba(250,255,107,1) 42
     border: 3px solid black;
 }
 
-#smoking {
+#f {
     width: 25%;
 }
