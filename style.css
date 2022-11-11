@@ -1,6 +1,5 @@
 body {
-    background-color: hotpink;
-}
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fceb31",endColorstr="#fa00ff",GradientType=1);}
 #mariopartywebp {
     width: 25%;
 }
@@ -9,10 +8,7 @@ body {
 }
 #container {
     background: rgb(252,235,49);
-    background: -moz-linear-gradient(90deg, rgba(252,235,49,1) 0%, rgba(250,255,107,1) 42%, rgba(250,0,255,1) 100%);
-    background: -webkit-linear-gradient(90deg, rgba(252,235,49,1) 0%, rgba(250,255,107,1) 42%, rgba(250,0,255,1) 100%);
-    background: linear-gradient(90deg, rgba(252,235,49,1) 0%, rgba(250,255,107,1) 42%, rgba(250,0,255,1) 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fceb31",endColorstr="#fa00ff",GradientType=1);}
+background: linear-gradient(90deg, rgba(252,235,49,1) 0%, rgba(250,255,107,1) 42%, rgba(250,0,255,1) 100%);
     padding: 1rem;
     border-radius: 0.5rem;
     border: 3px solid black;
