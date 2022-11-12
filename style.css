@@ -2,7 +2,16 @@ body {
   background-color: limegreen;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#fceb31",endColorstr="#fa00ff",GradientType=1);
 }
-#t {
+#wariotext {
+  width: 25%;
+}
+#wierdwario {
+  width: 25%;
+}
+#wario {
+  width: 25%;
+}
+#drugs {
   width: 25%;
 }
 #container {
@@ -24,6 +33,9 @@ body {
   border-radius: 0.5rem;
   border: 3px solid black;
 }
-#f {
+#sad {
+  width: 35%;
+}
+#bike {
   width: 35%;
 }
