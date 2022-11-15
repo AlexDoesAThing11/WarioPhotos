@@ -14,6 +14,10 @@ body {
 #drugs {
   width: 25%;
 }
+
+#why {
+    width: 25%;
+  }
 #container {
   background: rgb(252, 235, 49);
   background: linear-gradient(
@@ -39,3 +43,11 @@ body {
 #bike {
   width: 35%;
 }
+
+#rtx {
+    width: 35%;
+  }
+
+  #twitter {
+    width: 35%;
+  }
